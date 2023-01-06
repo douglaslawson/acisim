@@ -1,0 +1,9 @@
+/hs_err_pid15362.log
+/hs_err_pid18541.log
+/hs_err_pid7123.log
+/hs_err_pid8938.log
+*.class
+*.jar
+bin/
+.classpath
+.settings
